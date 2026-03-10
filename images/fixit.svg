@@ -1,15 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" version="1.1" width="16" height="16">
   <path
-    d="M80 400 L140 120 L200 280 L260 120 L320 400"
+    d="M80 80 L150 380 L250 150 L350 380 L420 80"
     stroke="#0066cc" 
-    stroke-width="50" 
+    stroke-width="45" 
     fill="none"
     stroke-linecap="round"
     stroke-linejoin="miter"/>
   <path
-    d="M80 400 L140 120 L200 280 L260 120 L320 400"
+    d="M80 80 L150 380 L250 150 L350 380 L420 80"
     stroke="#0000ff" 
-    stroke-width="30" 
+    stroke-width="25" 
     fill="none"
     stroke-linecap="round"
     stroke-linejoin="miter"/>
